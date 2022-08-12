@@ -1,1 +1,3 @@
-# Document Processor is used to read court judgement documents pdf files, automatically translating them into datasets
+# Document Processor 
+
+The main purpose is to create a code to automate the reading of court judgement documents pdf files, translating and preprocessing them into analysis-ready datasets
